@@ -1,7 +1,7 @@
 ## Welcome to Ruishen Zhao's Mathematical Home Page
 
 
-I'm a PhD student in IMJ-PRG under the direction of [Christophe Cornut](https://webusers.imj-prg.fr/~christophe.cornut/).  
+I'm a PhD student in IMJ-PRG under the direction of [Christophe Cornut](https://webusers.imj-prg.fr/~christophe.cornut/). My research interest lies in Shimura varieties and Langlands program. Here is my CV.  
 
 You can use the [editor on GitHub](https://github.com/motiverep012/motiverep012.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
