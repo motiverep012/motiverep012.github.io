@@ -3,6 +3,13 @@
 
 I'm a PhD student in IMJ-PRG under the direction of [Christophe Cornut](https://webusers.imj-prg.fr/~christophe.cornut/). My research interest lies in Shimura varieties and Langlands program. Here is my CV.  
 
+Papers
+
+Notes
+
+Links
+
+
 You can use the [editor on GitHub](https://github.com/motiverep012/motiverep012.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
